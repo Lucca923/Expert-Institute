@@ -1,0 +1,13 @@
+[
+  {
+    "id": "wgmzqu310",
+    "username": "lucca",
+    "password": "$2b$10$TBfAwtR7fK4LOEBcYrsnEurCPGtoKZFhMkQo3gVZFI22CFtZzsblq",
+    "wallet": {
+      "TotalDeposits": 621403.7832154203,
+      "assets": {
+        "ethereum": 300
+      }
+    }
+  }
+]
